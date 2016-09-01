@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\practice sorting\practice sorting\bin\Debug\practice sorting.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\practice sorting\practice sorting\bin\Debug\practice sorting.exe
+c:\users\owner\documents\visual studio 2015\Projects\practice sorting\practice sorting\bin\Debug\practice sorting.pdb
+c:\users\owner\documents\visual studio 2015\Projects\practice sorting\practice sorting\obj\Debug\practice sorting.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\practice sorting\practice sorting\obj\Debug\practice sorting.exe
+c:\users\owner\documents\visual studio 2015\Projects\practice sorting\practice sorting\obj\Debug\practice sorting.pdb
